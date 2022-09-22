@@ -1,0 +1,6 @@
+module Pods_KingfisherSample {
+  umbrella header "Pods-KingfisherSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
